@@ -1,8 +1,4 @@
 gcloud:
-  results-dir: $BITRISE_BUILD_NUMBER
-  record-video: true
-  timeout: 30m
-  async: false
   app: $BITRISE_APK_PATH
   test: $BITRISE_TEST_APK_PATH
   use-orchestrator: false
