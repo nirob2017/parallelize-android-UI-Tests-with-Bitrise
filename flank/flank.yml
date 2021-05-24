@@ -18,3 +18,4 @@ flank:
   max-test-shards: 3
   num-test-runs: 1
   shard-time: 30
+  project: sunflower-50625
